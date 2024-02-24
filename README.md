@@ -1,5 +1,7 @@
 # Chicago-Taxi-Weather-Service
 ¿Qué áreas de Chicago son las más populares? ¿Qué tanto afecta la lluvia en el tiempo de recorrido?
+
+
 __Tras los Pasos del Clima y los Taxis: Un Viaje de Datos__
 
 Estudio sobre Viajes en Taxi y su Relación con el Clima en Chicago
